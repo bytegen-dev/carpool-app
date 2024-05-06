@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.isaacadxbayo.CarpoolApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6ada447c-30f3-461e-ad46-3d80d65098ba"
+      }
+    },
+    "owner": "isaacadxbayo"
   }
 }
